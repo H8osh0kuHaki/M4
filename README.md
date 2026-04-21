@@ -1,5 +1,6 @@
-HI welcome!
+Hi welcome!
 this tool is just for education and porpuse don't use it for cyber attacks!
+this tool provided by Nasa Team!
 
 # How to Install?
 
